@@ -82,11 +82,3 @@ This project was prepared as part of the EnsembleAI Research Internship Applicat
 ---
 ```
 
----
-
-Would you also like me to prepare:
-- A `LICENSE` file (MIT License standard for open projects)?
-- A small `requirements.txt` file for dependencies?
-- A cleaner GitHub folder structure suggestion (e.g., move code to `src/`, results to `results/`)?
-
-Would you like those too? 🚀
