@@ -79,6 +79,4 @@ If you find this work helpful, feel free to cite or mention this repository!
 
 This project was prepared as part of the EnsembleAI Research Internship Application process, focusing on innovations in **efficient fine-tuning and model compression**.
 
----
-```
 
