@@ -1,13 +1,3 @@
-Got it — you uploaded the notebook:  
-`Aryan_EnesembleAI_Submission.ipynb`.
-
-I'll prepare a professional `README.md` for GitHub based on the notebook.
-
----
-
-# 📄 README.md
-
-```markdown
 # Efficient Fine-Tuning with NdLinear Layers
 
 This project explores efficient model compression by replacing standard Linear layers with **NdLinear** layers in a lightweight Vision Transformer (SmallViT) architecture.
